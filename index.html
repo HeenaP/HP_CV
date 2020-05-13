@@ -23,6 +23,29 @@
 
 </head>
 
+<style>
+button{
+  border: 2px solid brown;
+  border-radius: 10px;
+  background-color: white;
+  color: #BD5D38;
+  padding: 20px 40px;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
+
+
+.default {
+  border-color: #BD5D38;
+  color: black;
+}
+
+.default:hover {
+  background: #BD5D38;
+}
+</style>
+
 <body id="page-top">
 <!-- Navigation Bar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
@@ -237,9 +260,9 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
-        <p> Can speak write and read Gujarati at a preliminary level.</p>
-        <p class="mb-0"> Hold a full clean UK driving license.</p>
-        <p class="mb-0"> I enjoy playing badminton in my spare time, which began when playing in school.</p>        
+        <li> Can speak write and read Gujarati at a preliminary level.</li>
+        <li> Hold a full clean UK driving license.</li>
+        <li> I enjoy playing badminton in my spare time, which began when playing in school.</li>        
       </div>
     </section>
 
@@ -250,20 +273,19 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="references">
       <div class="w-100">
         <h2 class="mb-5">References</h2>
-        <ul class="mb-0">
-          <li>
-            References available on request</li>
-        </ul>
+          <p>References available on request</p>
       </div>
     </section>
     <!-- End of References Section -->
 
     <!-- Download CV Section-->
-        <div class="resume-section p-3 p-lg-5 d-flex align-items-center" class="btn default">
-          <a id="downloadCVBtn" href="img/CV_Heena PatelGitHub Copy.pdf">
+      
+       <button class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <a href="img/CV_Heena PatelGitHub Copy.pdf">
             <i class="fas fa-download mr-2"></i>Download CV</a>
-        </div> 
-
+        </button> 
+     
+        
   <!-- End of Download CV Section-->
     
 
