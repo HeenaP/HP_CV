@@ -156,9 +156,12 @@ font-size: 20px;
  
 		<ul class="list-inline dev-icons">
           <li class="list-inline-item">
-            <i class="fab fa-html5"></i>
-			<i class = "language"> HTML5 </i>
-            <i class="fab fa-css3-alt"> CSS</i>
+            <i class="fab fa-html5"> </i>
+			<li class="list-inline-item"> </li>
+			<div class = "language"> HTML5 </div>
+			</li>
+	      <li class="list-inline-item">
+            <i class="fab fa-css3-alt"></i>
 			<div class = "language"> CSS </div>
 			</li>
         </ul>
