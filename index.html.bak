@@ -162,10 +162,12 @@ font-size: 20px;
             <i class="fab fa-html5"> </i>
 			<div class = "language"> HTML5 </div>
 		</li>
+		&nbsp;
 	      <li class="list-inline-item">
             <i class="fab fa-css3-alt"></i>
 			<div class = "language"> CSS </div>
 		</li>
+		&nbsp;
 		 <li class="list-inline-item">
 		 <i class="fab fa-html5"></i>
 		 <!--<img src="img/SQL.png" alt="SQL" height = "60"width = 50" /> -->
@@ -177,9 +179,19 @@ font-size: 20px;
 
         <div class="subheading mb-3">Technical Skills:</div>
         <ul class="fa-ul mb-0">
+		
+		<li>Project Management
+		<ul>
+		<li>Agile
+		<li>SCRUM
+		</ul>
+		
+		
           <li>
             <i class="fa-li fa fa-check"></i>
-            Desktop Support </li>
+            Project Management: </li>
+          <li>
+
           <li>
             <i class="fa-li fa fa-check"></i>
             Microsoft Office/ Office 365 </li>
