@@ -50,11 +50,7 @@ button{
   border-collapse: collapse;
   width: 100%;
   }
-  
-.language {
-  font-size: 16px;
- }
-  
+    
 
 
 </style>
@@ -147,11 +143,11 @@ button{
 		<ul class="list-inline dev-icons">
           <li class="list-inline-item">
             <i class="fab fa-html5"> </i> 
-			<i class="language">HTML5</i>
+			<i>HTML5</i>
 			<li>
           <li class="list-inline-item">
             <i class="fab fa-css3-alt"></i> 
-			<i class="language">CSS</i>
+			<i>CSS</i>
 			</li>
         </ul>
 		
