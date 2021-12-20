@@ -178,15 +178,10 @@ font-size: 20px;
 		
 		<li>
 		<i class="fa-li fa fa-check"></i>
-		Project Management:
-		</li>
-		<ul>
-		<li>Agile</li>
-		<li>SCRUM</li>
-		</ul>
-		<br>
 		<li>
 		<i class="fa-li fa fa-check"></i>
+        Incident and Problem Management: Able to identify trends and execute possible workarounds, whilst investigating the root problem.  </li>
+		<br>
 		Systems:
 		</li>
 		<ul>
@@ -216,8 +211,24 @@ font-size: 20px;
 		</ul>
 		<br>
 		<li>
-        <i class="fa-li fa fa-check"></i>
-        Desktop Skills </li>
+		<li>
+		<i class="fa-li fa fa-check"></i>
+		Hardware:
+		</li>
+		<ul>
+		<li>Desktop Support</li>
+		<li>Repairing Laptops</li>
+		<li>Rebuilding Laptops</li>
+		</ul>
+		<br>
+		<li>
+		<i class="fa-li fa fa-check"></i>
+		Project Management:
+		</li>
+		<ul>
+		<li>Agile</li>
+		<li>SCRUM</li>
+		</ul>
 			
 <!--	
           <li>
