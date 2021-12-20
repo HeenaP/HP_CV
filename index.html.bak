@@ -49,6 +49,11 @@ button{
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   border-collapse: collapse;
   width: 100%;
+  }
+  
+.language {
+  font-size: 16px;
+ }
   
 
 
@@ -142,11 +147,11 @@ button{
 		<ul class="list-inline dev-icons">
           <li class="list-inline-item">
             <i class="fab fa-html5"> </i> 
-			<i class="subheading mb-4">HTML5</i>
+			<i class="language">HTML5</i>
 			<li>
           <li class="list-inline-item">
             <i class="fab fa-css3-alt"></i> 
-			<i class="subheading mb-3">CSS</i>
+			<i class="language">CSS</i>
 			</li>
         </ul>
 		
