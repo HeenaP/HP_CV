@@ -49,7 +49,7 @@ button{
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   border-collapse: collapse;
   width: 100%;
-}
+  
 
 
 </style>
@@ -142,7 +142,7 @@ button{
 		<ul class="list-inline dev-icons">
           <li class="list-inline-item">
             <i class="fab fa-html5"> </i> 
-			HTML5 
+			HTML5
 			<li>
           <li class="list-inline-item">
             <i class="fab fa-css3-alt"></i> 
