@@ -155,8 +155,6 @@ font-size: 20px;
             </tbody>
             </table>
          -->  
-	
- 
 		<ul class="list-inline dev-icons">
           <li class="list-inline-item">
             <i class="fab fa-html5"> </i>
@@ -173,25 +171,55 @@ font-size: 20px;
 		 <!--<img src="img/SQL.png" alt="SQL" height = "60"width = 50" /> -->
 		<div class = "language"> SQL </div>
 		</li>
-        </ul>
-		
-		
+        </ul>		
 
         <div class="subheading mb-3">Technical Skills:</div>
         <ul class="fa-ul mb-0">
 		
-		<li>Project Management
+		<li>
+		<i class="fa-li fa fa-check"></i>
+		Project Management:
+		</li>
 		<ul>
-		<li>Agile
-		<li>SCRUM
+		<li>Agile</li>
+		<li>SCRUM</li>
 		</ul>
-		
-		
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Project Management: </li>
-          <li>
-
+		<br>
+		<li>
+		<i class="fa-li fa fa-check"></i>
+		Systems:
+		</li>
+		<ul>
+		<li>Microsoft Office / Office 365</li>
+		<li>Active Directory (User Management, including LAPS and AppLocker)</li>
+		<li>SCCM (Deploying software to Users; building devices and maintaining SCCM Data)</li>
+		<li>Checkpoint (Adding or Updating rules; adding users for VPN access and troubleshooting when we have connectivity issues)</li>
+		<li>ServiceNow</li>
+		<li>02 MasS360</li>
+		<li>Putty</li>
+		<li>Nexus Terminal</li>
+		<li>NetOp</li>
+		<li>Red Prairie</li>
+		<li>PowerShell</li>
+		<li>FileZilla</li>
+		<li>Equitrac</li>
+		<li>Cognos</li>
+		<li>Retek</li>
+		<li>Sales Audit</li>
+		<li>Mitel SX200; Mitel 3300 (VOIP)</li>
+		<li>Mitel SX200; Mitel 3300 (VOIP)</li>
+		<li>Call Handling</li>
+		<li>Cloudflare (Cache Clear)</li>
+		<li>Actito</li>
+		<li>WebSphere</li>
+		<li>OROMS; OROB; IDCS</li>
+		</ul>
+		<br>
+		<li>
+        <i class="fa-li fa fa-check"></i>
+        Desktop Skills </li>
+			
+<!--	
           <li>
             <i class="fa-li fa fa-check"></i>
             Microsoft Office/ Office 365 </li>
@@ -214,16 +242,21 @@ font-size: 20px;
             <i class="fa-li fa fa-check"></i>
             Incident and Problem Management: Able to identify trends and possible workarounds, whilst investigating the root problem.  </li>              
         </ul>
+		
+-->
       </div>
     </section>
+	
 
-    <hr class="m-0">
+
     
     <!-- End of Skills Section-->
 
     
     
-    <hr class="m-0">
+    <hr>
+	
+	
 <!-- Education Section -->
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="education">
       <div class="w-100">
@@ -349,6 +382,7 @@ font-size: 20px;
             </table>
             <br>
             <br>
+			<hr>
              <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5"> </div>
           <div class="resume-content">
             <div>
@@ -380,6 +414,7 @@ font-size: 20px;
             </table>
             <br>
             <br>
+			<hr>
              <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
             <div>
@@ -462,6 +497,9 @@ font-size: 20px;
 
     </section>
     <!-- End of Education Section -->
+	
+	
+	<hr>
     
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="certification">
       <div class="w-100">
@@ -498,6 +536,8 @@ font-size: 20px;
              <li> <b>Analytical: </b> Produce weekly reports for the Team to identify and outline any trends, which are then managed actively for further actions. </li>
           </div>
         </div>
+		
+		<hr>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
@@ -513,6 +553,8 @@ font-size: 20px;
             <li> <b>Interpersonal Skills: </b> Developed my communication, listening and confidence levels. By interacting with users on a daily basis, I was able to deliver my point across and reassure users.</li>
           </div>
         </div>
+		
+		<hr>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
@@ -528,6 +570,8 @@ font-size: 20px;
             <li> <b> Initiative: </b>Investigating different jobs on a daily basis, I had to use my initiative when interacting with users. I am also happy to provide contributions to the team when needed. </li>
          </div>
         </div>
+		
+		<hr>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
