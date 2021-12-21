@@ -127,17 +127,12 @@ font-size: 20px;
       </div>
     </section>
     <!-- End of About Me Section -->
-	
-	<hr>
-	
-	    
+	<hr>    
     <!-- Skills Section-->
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
       <div class="w-100">
         <h2 class="mb-5">Systems & Key Skills</h2>
-
         <div class="subheading mb-3">Programming Languages &amp; Tools:</div>
-		
 		<!--
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
@@ -172,11 +167,8 @@ font-size: 20px;
 		<div class = "language"> SQL </div>
 		</li>
         </ul>		
-
         <div class="subheading mb-3">Technical Skills:</div>
         <ul class="fa-ul mb-0">
-		
-		
 		<li>
 		<i class="fa-li fa fa-check"></i>
         Incident and Problem Management: Able to identify trends and execute possible workarounds, whilst investigating the root problem.  </li>
@@ -230,7 +222,6 @@ font-size: 20px;
 		<li>Agile</li>
 		<li>SCRUM</li>
 		</ul>
-			
 <!--	
           <li>
             <i class="fa-li fa fa-check"></i>
@@ -253,18 +244,12 @@ font-size: 20px;
           <li>
             <i class="fa-li fa fa-check"></i>
             Incident and Problem Management: Able to identify trends and possible workarounds, whilst investigating the root problem.  </li>              
-        </ul>
--->
+        </ul>-->
       </div>
-    </section>
-	  
-    <!-- End of Skills Section-->
-   
-    
+    </section>  
+    <!-- End of Skills Section--> 
     <hr>
-	
 	<!-- Certification Section -->	
-    
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="certification">
       <div class="w-100">
         <h2 class="mb-5">Certifications</h2>
@@ -326,15 +311,17 @@ font-size: 20px;
 			<p>This included triaging and investigating issues; trying to resolve with a first-time fix over the phone and ServiceNow. If this was not possible, the incident would then be passed along to the internal resolver groups. If the incident involved third parties, we would log the ticket and manage the incident, from start to finish. Any communications would also be sent out the Business when the relevant system was impacted. When working late shifts and weekends, it allowed me to learn about the different areas of the Business.</p>
 			<p><b> Transferable Skills: </b></p>
             <li> <b>Initiative: </b> Suggesting ideas such as training material and schedules for the team, and planning out monthly rotas for the team to include the different shift patterns. I am also happy to provide contributions to the team when needed. </li>
+			<br>
             <li> <b>Customer Service: </b> Entailed speaking to different users over the phone and or in person. I was able to adapt to each user individually, taking into account their level of IT expertise and providing a good service. I also learnt to reassure the users that and build a rapport when the users. </li>
+			<br>
             <li> <b>Time Management: </b> By managing multiple tasks on a daily basis, I learnt how to prioritise my tasks, based on urgency and impact. This taught me to time manage my tasks, so they could be completed to the best of my ability in a timely manner. </li>
+			<br>
             <li> <b>Interpersonal Skills: </b> Developed my communication, listening and confidence levels. By interacting with users on a daily basis, I was able to deliver my point across and reassure users.</li>
+			<br>
 			<li> <b>Teamwork: </b>By working within a team, I was able to ask for advice when needed. In turn, I was able to provide advice and offer the team help when needed. Being a team player as well as working independently. </li>
           </div>
         </div>
-		
 		<hr>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <div>
@@ -521,15 +508,15 @@ font-size: 20px;
             </thead>
             <tbody>
             <tr>
-            <td><em>ICT:</em></td>
+            <td>ICT:</td>
             <td>B</td>
             </tr>
             <tr>
-            <td><em>Chemistry:</em></td>
+            <td>Chemistry:</td>
             <td>D</td>
             </tr>
             <tr>
-            <td><em>Mathematics:</em></td>
+            <td>Mathematics:</td>
             <td>D</td>
             </tr>
             </tbody>
@@ -553,15 +540,15 @@ font-size: 20px;
             </thead>
             <tbody>
             <tr>
-            <td><em>10 including English, Mathematics and Science:</em></td>
+            <td>10 including English, Mathematics and Science:</td>
             <td>A* - C</td>
             </tr>
             <tr>
-            <td><em>VRQ: Preparation For Work:</em></td>
+            <td>VRQ: Preparation For Work:</td>
             <td>B</td>
             </tr>
             <tr>
-            <td><em>BTEC: Sports Studies:</em></td>
+            <td>BTEC: Sports Studies:</td>
             <td>Distinction*</td>
             </tr>
             </tbody>
