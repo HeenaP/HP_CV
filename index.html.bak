@@ -263,15 +263,12 @@ font-size: 20px;
         </ul>
       </div>
     </section>
-<!-- End of Certification Section -->
-
+	<!-- End of Certification Section -->
 	<hr>
-	
     <!-- Experience Section -->
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="experience">
       <div class="w-100">
-        <h2 class="mb-5">Experience</h2>
-        
+        <h2 class="mb-5">Experience</h2>   
           <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <div>
@@ -297,10 +294,8 @@ font-size: 20px;
 			<br>
 			<li> <b>Leadership: </b> I assign calls to my colleagues when I am unable to pick the incidents myself to ensure they are investigated in a timely manner. When investigating an issue, I include a Colleague to improve their technical and interpersonal skills. I have also created a set of interview question to assess the levels of skills for new members and prepared interview questions for onboarding members. </li>
           </div>
-        </div>
-		
+        </div>	
 		<hr>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <div>
@@ -339,9 +334,7 @@ font-size: 20px;
 			-->
          </div>
         </div>
-		
 		<hr>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <div>
@@ -350,7 +343,6 @@ font-size: 20px;
             <h3 class="mb-0">Coding For Schools</h3>
             <h3 class= "subheading mb-3">Volunteering to teach Scratch at various Primary Schools across Leicester.</h3>
 			<p>This was a voluntary opportunity where I taught Scratch at various Primary Schools across Leicester weekly. Before the visit, I would plan lessons in advance outlining achievable targets for the Students and once the lesson was completed, I would assess the Student’s participation to then create the next targets.</p>
-			
 			<!--
             <p><b> Transferable Skills: </b></p>
             <li> <b> Leadership: </b> Able to take charge of lessons for the children and inform them what they had to carry out. Ready to face any rising challenges.</li>
@@ -365,12 +357,10 @@ font-size: 20px;
     </section>
     <!-- End of Experience Section -->
 		<hr>
-	
-<!-- Education Section -->
+	<!-- Education Section -->
     <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="education">
       <div class="w-100">
         <h2 class="mb-5">Education</h2>
-
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
           <div>
@@ -413,9 +403,7 @@ font-size: 20px;
             </tr>
             </tbody>
             </table>
-            
             <hr>
-            
             <br>
             <br>
             <div class="subheading mb-3">Second Year:</div>
@@ -452,10 +440,8 @@ font-size: 20px;
             <td>80%</td>
             </tr>
             </tbody>
-            </table>
-            
-            <hr>
-            
+            </table> 
+            <hr>   
             <br>
             <br>
             <div class="subheading mb-3">First Year:</div>
@@ -603,39 +589,25 @@ font-size: 20px;
             <li> BTEC: Sports Studies: Distinction*</li> -->
           </div>
         </div>
-
     </section>
-  <!-- End of Education Section --> 
-
-
+	<!-- End of Education Section --> 
     <hr>
-    
-
-
-    
-
     <!-- Information Section-->
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="info">
       <div class="w-100">
         <h2 class="mb-5">Addtional Information</h2>
-
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
             Can speak write and read Gujarati at a preliminary level </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Hold a full clean UK driving license</li>
-                  
+            Hold a full clean UK driving license</li>     
         </ul>
       </div>
     </section>
-
-    
-    
     <!-- End of Info Section-->
 	<hr>
-    
     <!-- Interests Section -->
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
       <div class="w-100">
@@ -644,10 +616,8 @@ font-size: 20px;
         <li> <b> Research:</b> Researching technology in this modern era. Completing courses on Pluralsight to further my knowledge.</li>       
       </div>
     </section>
-
-    <hr class="m-0">
     <!-- End of Interests Section -->
-
+	
     <!-- References Section -->
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="references">
       <div class="w-100">
@@ -655,7 +625,7 @@ font-size: 20px;
           <p>References available on request.</p>
       </div>
     </section>
-    <hr class="m-0">
+    <hr>
     <!-- End of References Section -->
 
     <!-- Download CV Section-->
@@ -667,12 +637,9 @@ font-size: 20px;
            <i class="fas fa-download mr-2"></i>Download CV</a>
         </button>    
     </div>
-    </section> 
-        
+    </section>  
   <!-- End of Download CV Section-->
     
-
-  
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
