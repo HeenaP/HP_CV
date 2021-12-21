@@ -362,7 +362,7 @@ font-size: 20px;
           </div>
             <h3 class="mb-0">Coding For Schools</h3>
             <h3 class= "subheading mb-3">Volunteering to teach Scratch at various Primary Schools across Leicester.</h3>
-			<p></p>
+			<p>This was a voluntary opportunity where I taught Scratch at various Primary Schools across Leicester weekly. Before the visit, I would plan lessons in advance outlining achievable targets for the Students and once the lesson was completed, I would assess the Student’s participation to then create the next targets.</p>
 			
 			<!--
             <p><b> Transferable Skills: </b></p>
@@ -654,7 +654,7 @@ font-size: 20px;
       <div class="w-100">
         <h2 class="mb-5">Interests</h2>
         <li> <b> Sports:</b> I began playing Badminton in school, and now currently play in my spare time, which has had a positive impact, physically and mentally.</li>
-        <li> <b> Research:</b> Researching technology in this modern era.</li>       
+        <li> <b> Research:</b> Researching technology in this modern era. Completing courses on Pluralsight to further my knowledge.</li>       
       </div>
     </section>
 
